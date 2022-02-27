@@ -25,6 +25,8 @@ body{
 .select{
     background-color: var(--bgc);
     color: var(--color);
+    outline: none;
+    border: none;
 }
 
 .search{
@@ -33,5 +35,7 @@ body{
     background-repeat: no-repeat;
     padding: 18px 20px 18px 60px;
     background-color: var(--bgc);
+    outline: none;
+    border: none;
 }
 
